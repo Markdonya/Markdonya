@@ -3,11 +3,10 @@
 ## I'm a Senior Magento Developer and PHP TechLead
 
 - 💪 I like to write code
-- 🎉 I love playing guitar, computer games and swimming
+- 🎉 I love humor, computer games and gym
 - 🥅 I am constantly learning new technologies
-- 👯 I’m looking to collaborate on some React projects
+- 👯 I’m looking to collaborate on some Magento projects
 
-- ⚡ Fun fact: My nickname is senior_13j almost everywhere
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
