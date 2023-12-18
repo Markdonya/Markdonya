@@ -5,7 +5,7 @@
 - 💪 I like to write code
 - 🎉 I love humor, computer games, and gym
 - 🥅 I am constantly learning new technologies
-- 👯 I’m looking to collaborate on some Magento projects
+- 👯 I’m looking to collaborate on some IT projects
 
 
 ### Languages and Tools:
