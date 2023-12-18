@@ -1,9 +1,9 @@
 ### Hello there 👋, I'm Mark
 
-## I'm a Senior Magento Developer and PHP TechLead
+## I'm a Senior Software Developer and PHP/JS/Python TechLead
 
 - 💪 I like to write code
-- 🎉 I love humor, computer games and gym
+- 🎉 I love humor, computer games, and gym
 - 🥅 I am constantly learning new technologies
 - 👯 I’m looking to collaborate on some Magento projects
 
