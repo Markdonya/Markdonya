@@ -2,7 +2,7 @@
 
 ## I'm a Senior Software Developer and PHP/JS/Python TechLead
 
-- 💪 I like to write code
+- 💪 I like writing code
 - 🎉 I love humor, computer games, and gym
 - 🥅 I am constantly learning new technologies
 - 👯 I’m looking to collaborate on some IT projects
